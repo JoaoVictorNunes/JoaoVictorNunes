@@ -8,9 +8,9 @@ Below, you can see some of my Data Science and Data Analysis Projects.
 ## Data Analysis Projects
 
 ### Food Claims Process: https://app.datacamp.com/workspace/w/6f5d74d3-6ecb-4418-8632-8f77abb547ec
-> This procjet aims to analayse Vivendo, fast food chain in Brazil with over 200 outlets. In this food chain, customers often claim compensation from the company for food poisoning. The big question is: is there any relation between the time to close and the location of the claim?
+> This project aims to analyze Vivendo, fast food chain in Brazil with over 200 outlets. In this food chain, customers often claim compensation from the company for food poisoning. The big question is: is there any relation between the time to close and the location of the claim?
 
-### Carbon Dioxode Emissions by cars
+### Carbon Dioxide Emissions by cars
 > This project aims to explain the amount of carbon dioxide emitted by several types of cars.
 
 ### Is Azul Stocks' value correlated with ^BVSP, tax rate or interest tax? 

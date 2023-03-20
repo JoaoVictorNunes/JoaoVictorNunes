@@ -7,7 +7,7 @@ Below, you can see some of my Data Science and Data Analysis Projects.
 
 ## Data Analysis Projects
 
-### Food Claims Process: https://app.datacamp.com/workspace/w/6f5d74d3-6ecb-4418-8632-8f77abb547ec
+### Food Claims Process: https://www.kaggle.com/code/joaovictornunes/vivendo-s-food-claim-process?scriptVersionId=122809147
 > This project aims to analyze Vivendo, fast food chain in Brazil with over 200 outlets. In this food chain, customers often claim compensation from the company for food poisoning. The big question is: is there any relation between the time to close and the location of the claim?
 
 ### Carbon Dioxide Emissions by cars

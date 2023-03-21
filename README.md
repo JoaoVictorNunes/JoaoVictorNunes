@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 I'm a Data Scientist from Brazil. I'm currently coursing a Master's Program at Universidade Federal Fluminense (UFF), with a research line on Data Science. 
-I have passed the Data Analyst Associate certification at DataCamp (https://www.datacamp.com/certificate/DAA0017055292151), and I'm also studying to get certificate as a Data Scientist.
+I passed the Data Analyst Associate certification at DataCamp (https://www.datacamp.com/certificate/DAA0017055292151), and I'm also studying to get certificate as a Data Scientist.
 
 Below, you can see some of my Data Science and Data Analysis Projects.
 
